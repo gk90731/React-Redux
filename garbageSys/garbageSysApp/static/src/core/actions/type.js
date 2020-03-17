@@ -1,0 +1,1 @@
+export const USER_LOGIN = '/rest-auth/login/';
